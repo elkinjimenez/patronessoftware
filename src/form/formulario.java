@@ -201,6 +201,7 @@ public class formulario extends javax.swing.JFrame {
         factoryMethod5.setText("Command");
         factoryMethod5.setBorderPainted(false);
         factoryMethod5.setContentAreaFilled(false);
+        factoryMethod5.setEnabled(false);
         factoryMethod5.setFocusPainted(false);
         factoryMethod5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
