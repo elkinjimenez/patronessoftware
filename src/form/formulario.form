@@ -144,7 +144,7 @@
                       <Component id="factoryMethod2" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
                       <Component id="factoryMethod4" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
                   </Group>
-                  <EmptySpace pref="51" max="32767" attributes="0"/>
+                  <EmptySpace pref="38" max="32767" attributes="0"/>
                   <Component id="jLabel2" min="-2" pref="19" max="-2" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
               </Group>
